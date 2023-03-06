@@ -2,7 +2,7 @@
 
 Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cloud infrastructure.
 
-## Roles
+## History
 
 ### Google (2020 - Present)
 * Senior Developer Relations Engineer _(January 2022 - Present)_
@@ -21,6 +21,9 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 ### Oracle (2014-2016)
 * Lead Cloud Success Engineer _(May 2015 - June 2016)_
 * Associate Sales Engineer _(July 2014 - May 2015)_
+
+### UCLA School of Law (2012-2014)
+* Senior IT Support Technician _(October 2012 - June 2014)_
 
 ## Content
 
