@@ -2,18 +2,50 @@
 
 Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on cloud infrastructure.
 
-## Books
+## Roles
+
+* Senior Developer Relations Engineer, Google 
+* * January 2022 - Present
+
+* Staff Specialist Customer Engineer, Google
+* * April 2021 - December 2021
+
+* Senior Specialist Customer Engineer, Google
+* * June 2020 - April 2021
+
+* Lead DevOps Engineer, Salesforce
+* * February 2020 - June 2020
+
+* Senior Specialist Customer Engineer, Google
+* * April 2019 - February 2020
+
+* Specialist Customer Engineer III, Google
+* * July 2018 - April 2019
+
+* Customer Engineer III, Google
+* * April 2017 - July 2018
+
+* Customer Engineer II, Google
+* * June 2016 - April 2017
+
+* Lead Cloud Success Engineer, Oracle
+* * May 2015 - June 2016
+
+* Associate Sales Engineer, Oracle
+* * July 2014 - May 2015
+
+### Books
 
 * October 2022 - Packt Publishing - [Cloud-native Automation with Google Cloud Build](https://www.amazon.com/Cloud-Native-Automation-Google-Build-ebook/dp/B0B4SLXHCK)
 
-## Blogs
+### Blogs
 
 * March 2023 - [5 GKE features to help you optimize your clusters](https://cloud.google.com/blog/products/containers-kubernetes/boost-your-gke-game-with-these-tips-and-tutorials)
 * November 2022 - [Practicing the principle of least privilege with Cloud Build and Artifact Registry](https://cloud.google.com/blog/topics/developers-practitioners/practicing-principle-least-privilege-cloud-build-and-artifact-registry/)
 * August 2022 - [Securing apps for Googlers using Anthos Service Mesh](https://cloud.google.com/blog/topics/developers-practitioners/securing-apps-googlers-using-anthos-service-mesh)
 * March 2021 - [Scaling workloads across multiple dimensions in GKE](https://cloud.google.com/blog/topics/developers-practitioners/scaling-workloads-across-multiple-dimensions-gke)
 
-## Videos
+### Videos
 
 * January 2023 - [Optimization in GKE](https://www.youtube.com/watch?v=sYdCqxM7OFM)
 * December 2022 - [Cloud Run in a Minute](https://www.youtube.com/watch?v=AL2rAmWFZjM)
@@ -47,7 +79,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on c
 * February 2019 - Cloud On Air - [Automating canary release judgements with Spinnaker](https://www.youtube.com/watch?v=AAn9Yv-ucgM)
 * July 2018 - Google Cloud Next - [Getting started with containers and GKE](https://www.youtube.com/watch?v=znhnDHAPCZE)
 
-## Podcasts
+### Podcasts
 
 * GCP Podcast - Episode 312 - Host - [GKE Turns 7 with Tim Hockin](https://www.gcppodcast.com/post/episode-318-gke-turns-7-with-tim-hockin/)
 * GCP Podcast - Episode 300 - Host - [GKE Gateway Controller with Bowei Du and Abdelfettah Sghiouar](https://www.gcppodcast.com/post/episode-300-gke-gateway-controller-with-bowei-du-and-abdelfettah-sghiouar/)
@@ -55,7 +87,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on c
 * GCP Podcast - Episode 272 - Guest - [GKE Turns Six with Anthony Bushong, Gari Singh, and Kaslin Fields](https://www.gcppodcast.com/post/episode-272-gke-turns-six-with-anthony-bushong-gari-singh-and-kaslin-fields/)
 * GCP Podcast - Episode 252 - Guest - [GKE Cost Optimization with Kaslin Fields and Anthony Bushong](https://www.gcppodcast.com/post/episode-252-gke-cost-optimization-with-kaslin-fields-and-anthony-bushong/)
 
-## Co-authored or reviewed
+### Co-authored or reviewed
 
 * December 2022 - Reviewer - [Troubleshoot Dataproc Cluster Creation Errors](https://www.youtube.com/watch?v=S8kNdfuGyDs)
 * November 2022 - Reviewer - [GCVE: Troubleshoot Google Cloud to GCVE peering connection issues](https://www.youtube.com/watch?v=RO78WYoAr3k)
