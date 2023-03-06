@@ -5,32 +5,22 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on c
 ## Roles
 
 ### Google (2020 - Present)
-* Senior Developer Relations Engineer 
- * January 2022 - Present
-* Staff Specialist Customer Engineer
- * April 2021 - December 2021
-* Senior Specialist Customer Engineer
- * June 2020 - April 2021
+* Senior Developer Relations Engineer (January 2022 - Present)
+* Staff Specialist Customer Engineer (April 2021 - December 2021)
+* Senior Specialist Customer Engineer (June 2020 - April 2021)
 
 ### Salesforce (2020)
-* Lead DevOps Engineer
- * February 2020 - June 2020
+* Lead DevOps Engineer (February 2020 - June 2020)
  
 ### Google (2016-2020)
-* Senior Specialist Customer Engineer
- * April 2019 - February 2020
-* Specialist Customer Engineer III
- * July 2018 - April 2019
-* Customer Engineer III
- * April 2017 - July 2018
-* Customer Engineer II
- * June 2016 - April 2017
+* Senior Specialist Customer Engineer (April 2019 - February 2020)
+* Specialist Customer Engineer III (July 2018 - April 2019)
+* Customer Engineer III (April 2017 - July 2018)
+* Customer Engineer II (June 2016 - April 2017)
    
 ### Oracle (2014-2016)
-* Lead Cloud Success Engineer
- * May 2015 - June 2016
-* Associate Sales Engineer
- * July 2014 - May 2015
+* Lead Cloud Success Engineer (May 2015 - June 2016)
+* Associate Sales Engineer (July 2014 - May 2015)
 
 ## Content
 
@@ -70,7 +60,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on c
 * December 2018 - [Cloud Build with Containers](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 * August 2018 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
-## Event talks
+### Event talks
 
 * November 2021 - Google Cloud Next - [Production-grade build security for developer workflows](https://www.youtube.com/watch?v=kTM0on97U0A)
 * July 2021 - Secure Software Supply Chain Day - [Chain of trust: Strengthening build security](https://www.youtube.com/watch?v=jtT_iarPg8w)
