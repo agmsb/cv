@@ -1,5 +1,8 @@
 # agmsb cv
 
+## Books
+
+* October 2022 - Packt Publishing - [Cloud-native Automation with Google Cloud Build](https://www.amazon.com/Cloud-Native-Automation-Google-Build-ebook/dp/B0B4SLXHCK]
 
 ## Blogs
 
@@ -10,6 +13,14 @@
 
 ## Videos
 
+* August 2022 - [This Week in Cloud - August 1, 2022](https://www.youtube.com/watch?v=ZyCNL-tBTow)
+* July 2022 - [Run your Arm workloads on GKE!](https://www.youtube.com/watch?v=LZoy6jpzfqA)
+* July 2022 - [Foundations of canary deployments in GKE](https://www.youtube.com/watch?v=L9OuKDXxuME)
+* June 2022 - [Securing your software supply chain](https://www.youtube.com/watch?v=Dg-hD4HHKT8)
+* June 2022 - [Intro to building large GKE clusters - part 2](https://www.youtube.com/watch?v=RE1P7HdpPys)
+* May 2022 - [Intro to building large GKE clusters](https://www.youtube.com/watch?v=542XwAPKh4g)
+* December 2021 [Introduction to securing cluster access](https://www.youtube.com/watch?v=7wsIuA8eRqQ)
+* November 2021 [Introduction to GKE cluster networking](https://www.youtube.com/watch?v=QvVmQtO-ftU)
 * November 2021 [Introducing Google Cloud Managed Service for Prometheus](https://www.youtube.com/watch?v=DJz5tdFHGoI)
 * September 2021 [Interacting with your Kubernetes workloads](https://www.youtube.com/watch?v=CSKRy7Ldqis)
 * August 2021 [Monitoring for app right-sizing in GKE](https://www.youtube.com/watch?v=3bbVOp4y3MI)
@@ -30,4 +41,12 @@
 
 ## Podcasts
 
-## Content co-authored or reviewed
+## Co-authored or reviewed
+
+* July 202 - Co-author - [How to run code in Google Cloud](https://www.youtube.com/watch?v=jtPtSVSTb9Y)
+* July 2022 - Co-author - [Arm is coming to Compute Engine!](https://www.youtube.com/watch?v=HUbPVj27Mvc)
+* July 2022 - Reviewer - [Canary deployments for workloads in GKE](https://www.youtube.com/watch?v=VF6ZyOgRf8U)
+* June 2022 - Co-author - [Google Cloud Media CDN walkthrough](https://www.youtube.com/watch?v=GF90l7uk1qE)
+* June 2022 - Co-author - [Why startups choose Google Cloud](https://www.youtube.com/watch?v=cJHlWncgYDU)
+* May 2022 - Co-author - [Cloud Functions 2nd Gen Walkthrough](https://www.youtube.com/watch?v=N6pMppfU2aQ)
+* March 2022 - Co-author - [Introducing Cloud Functions 2nd Gen](https://www.youtube.com/watch?v=ATBDTTM-Ohk)
