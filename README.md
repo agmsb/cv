@@ -4,33 +4,33 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on c
 
 ## Roles
 
-* Google (2020 - Present)
- * Senior Developer Relations Engineer 
-   * January 2022 - Present
- * Staff Specialist Customer Engineer
-   * April 2021 - December 2021
- * Senior Specialist Customer Engineer
-   * June 2020 - April 2021
+### Google (2020 - Present)
+* Senior Developer Relations Engineer 
+ * January 2022 - Present
+* Staff Specialist Customer Engineer
+ * April 2021 - December 2021
+* Senior Specialist Customer Engineer
+ * June 2020 - April 2021
 
-* Salesforce (2020)
- * Lead DevOps Engineer
-   * February 2020 - June 2020
+### Salesforce (2020)
+* Lead DevOps Engineer
+ * February 2020 - June 2020
  
-* Google (2016-2020)
- * Senior Specialist Customer Engineer
-   * April 2019 - February 2020
- * Specialist Customer Engineer III
-   * July 2018 - April 2019
- * Customer Engineer III
-   * April 2017 - July 2018
- * Customer Engineer II
-   * June 2016 - April 2017
+### Google (2016-2020)
+* Senior Specialist Customer Engineer
+ * April 2019 - February 2020
+* Specialist Customer Engineer III
+ * July 2018 - April 2019
+* Customer Engineer III
+ * April 2017 - July 2018
+* Customer Engineer II
+ * June 2016 - April 2017
    
-* Oracle (2014-2016)
- * Lead Cloud Success Engineer
-   * May 2015 - June 2016
- * Associate Sales Engineer
-   * July 2014 - May 2015
+### Oracle (2014-2016)
+* Lead Cloud Success Engineer
+ * May 2015 - June 2016
+* Associate Sales Engineer
+ * July 2014 - May 2015
 
 ## Content
 
