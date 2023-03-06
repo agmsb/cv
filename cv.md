@@ -1,6 +1,6 @@
 # agmsb cv
 
-Anthony Bushong is a Senior Developer Relations Engineer at Google Cloud.
+Anthony Bushong is a Senior Developer Relations Engineer at Google, focused on cloud infrastructure.
 
 ## Books
 
