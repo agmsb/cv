@@ -82,14 +82,14 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * GCP Podcast - Episode 272 - Guest - [GKE Turns Six with Anthony Bushong, Gari Singh, and Kaslin Fields](https://www.gcppodcast.com/post/episode-272-gke-turns-six-with-anthony-bushong-gari-singh-and-kaslin-fields/)
 * GCP Podcast - Episode 252 - Guest - [GKE Cost Optimization with Kaslin Fields and Anthony Bushong](https://www.gcppodcast.com/post/episode-252-gke-cost-optimization-with-kaslin-fields-and-anthony-bushong/)
 
-### Co-authored or reviewed
+### Contributed or reviewed
 
 * December 2022 - Reviewer - [Troubleshoot Dataproc Cluster Creation Errors](https://www.youtube.com/watch?v=S8kNdfuGyDs)
 * November 2022 - Reviewer - [GCVE: Troubleshoot Google Cloud to GCVE peering connection issues](https://www.youtube.com/watch?v=RO78WYoAr3k)
-* July 2022 - Co-author - [How to run code in Google Cloud](https://www.youtube.com/watch?v=jtPtSVSTb9Y)
-* July 2022 - Co-author - [Arm is coming to Compute Engine!](https://www.youtube.com/watch?v=HUbPVj27Mvc)
+* July 2022 - Contributor - [How to run code in Google Cloud](https://www.youtube.com/watch?v=jtPtSVSTb9Y)
+* July 2022 - Contributor - [Arm is coming to Compute Engine!](https://www.youtube.com/watch?v=HUbPVj27Mvc)
 * July 2022 - Reviewer - [Canary deployments for workloads in GKE](https://www.youtube.com/watch?v=VF6ZyOgRf8U)
-* June 2022 - Co-author - [Google Cloud Media CDN walkthrough](https://www.youtube.com/watch?v=GF90l7uk1qE)
-* June 2022 - Co-author - [Why startups choose Google Cloud](https://www.youtube.com/watch?v=cJHlWncgYDU)
-* May 2022 - Co-author - [Cloud Functions 2nd Gen Walkthrough](https://www.youtube.com/watch?v=N6pMppfU2aQ)
-* March 2022 - Co-author - [Introducing Cloud Functions 2nd Gen](https://www.youtube.com/watch?v=ATBDTTM-Ohk)
+* June 2022 - Contributor - [Google Cloud Media CDN walkthrough](https://www.youtube.com/watch?v=GF90l7uk1qE)
+* June 2022 - Contributor - [Why startups choose Google Cloud](https://www.youtube.com/watch?v=cJHlWncgYDU)
+* May 2022 - Contributor - [Cloud Functions 2nd Gen Walkthrough](https://www.youtube.com/watch?v=N6pMppfU2aQ)
+* March 2022 - Contributor - [Introducing Cloud Functions 2nd Gen](https://www.youtube.com/watch?v=ATBDTTM-Ohk)
