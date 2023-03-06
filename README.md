@@ -38,6 +38,16 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * August 2022 - [Securing apps for Googlers using Anthos Service Mesh](https://cloud.google.com/blog/topics/developers-practitioners/securing-apps-googlers-using-anthos-service-mesh)
 * March 2021 - [Scaling workloads across multiple dimensions in GKE](https://cloud.google.com/blog/topics/developers-practitioners/scaling-workloads-across-multiple-dimensions-gke)
 
+### Event talks
+
+* November 2021 - Google Cloud Next - [Production-grade build security for developer workflows](https://www.youtube.com/watch?v=kTM0on97U0A)
+* July 2021 - Secure Software Supply Chain Day - [Chain of trust: Strengthening build security](https://www.youtube.com/watch?v=jtT_iarPg8w)
+* June 2019 - Google Cloud Next - [Putting SRE Principles into Practice with Stackdriver](https://www.youtube.com/watch?v=3qB7tqx7ZUI)
+* February 2019 - Salt Lake City GCP Meetup - [Pushing Kubernetes down the stack](https://www.youtube.com/watch?v=W-mPcw4lgYo)
+* February 2019 - Cloud On Air - [Automating canary release judgements with Spinnaker](https://www.youtube.com/watch?v=AAn9Yv-ucgM)
+* July 2018 - Sunnyvale Cloud Native Meetup - ["Not your average workload" in GKE](https://www.altoros.com/blog/managing-multi-cluster-workloads-with-google-kubernetes-engine/)
+* July 2018 - Google Cloud Next - [Getting started with containers and GKE](https://www.youtube.com/watch?v=znhnDHAPCZE)
+
 ### Videos
 
 * January 2023 - [Optimization in GKE](https://www.youtube.com/watch?v=sYdCqxM7OFM)
@@ -62,16 +72,6 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * June 2021 - [The Kubernetes Gateway API: Multi-cluster Gateways](https://www.youtube.com/watch?v=NGsHFi276NE)
 * December 2018 - [Cloud Build with Containers](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 * August 2018 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
-
-### Event talks
-
-* November 2021 - Google Cloud Next - [Production-grade build security for developer workflows](https://www.youtube.com/watch?v=kTM0on97U0A)
-* July 2021 - Secure Software Supply Chain Day - [Chain of trust: Strengthening build security](https://www.youtube.com/watch?v=jtT_iarPg8w)
-* June 2019 - Google Cloud Next - [Putting SRE Principles into Practice with Stackdriver](https://www.youtube.com/watch?v=3qB7tqx7ZUI)
-* February 2019 - Salt Lake City GCP Meetup - [Pushing Kubernetes down the stack](https://www.youtube.com/watch?v=W-mPcw4lgYo)
-* February 2019 - Cloud On Air - [Automating canary release judgements with Spinnaker](https://www.youtube.com/watch?v=AAn9Yv-ucgM)
-* July 2018 - Sunnyvale Cloud Native Meetup - ["Not your average workload" in GKE](https://www.altoros.com/blog/managing-multi-cluster-workloads-with-google-kubernetes-engine/)
-* July 2018 - Google Cloud Next - [Getting started with containers and GKE](https://www.youtube.com/watch?v=znhnDHAPCZE)
 
 ### Podcasts
 
