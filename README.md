@@ -71,7 +71,8 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Podcasts
 
-* GCP Podcast - Episode 312 - Host - [GKE Turns 7 with Tim Hockin](https://www.gcppodcast.com/post/episode-318-gke-turns-7-with-tim-hockin/)
+* GCP Podcast - Episode 318 - Host - [GKE Turns 7 with Tim Hockin](https://www.gcppodcast.com/post/episode-318-gke-turns-7-with-tim-hockin/)
+* GCP Podcast - Episode 312 - Host - [Managed Service for Prometheus with Lee Yanco and Ashish Kumar](https://www.gcppodcast.com/post/episode-312-managed-service-for-prometheus-with-lee-yanco-and-ashish-kumar/)
 * GCP Podcast - Episode 300 - Host - [GKE Gateway Controller with Bowei Du and Abdelfettah Sghiouar](https://www.gcppodcast.com/post/episode-300-gke-gateway-controller-with-bowei-du-and-abdelfettah-sghiouar/)
 * GCP Podcast - Episode 273 - Host - [Working with Kubernetes and KRM with Megan O'Keefe](https://www.gcppodcast.com/post/episode-273-working-with-kubernetes-and-krm-with-megan-okeefe/)
 * GCP Podcast - Episode 272 - Guest - [GKE Turns Six with Anthony Bushong, Gari Singh, and Kaslin Fields](https://www.gcppodcast.com/post/episode-272-gke-turns-six-with-anthony-bushong-gari-singh-and-kaslin-fields/)
