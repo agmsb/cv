@@ -67,6 +67,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * June 2019 - Google Cloud Next - [Putting SRE Principles into Practice with Stackdriver](https://www.youtube.com/watch?v=3qB7tqx7ZUI)
 * February 2019 - Salt Lake City GCP Meetup - [Pushing Kubernetes down the stack](https://www.youtube.com/watch?v=W-mPcw4lgYo)
 * February 2019 - Cloud On Air - [Automating canary release judgements with Spinnaker](https://www.youtube.com/watch?v=AAn9Yv-ucgM)
+* July 2018 - Sunnyvale Cloud Native Meetup - ["Not your average workload" in GKE](https://www.altoros.com/blog/managing-multi-cluster-workloads-with-google-kubernetes-engine/)
 * July 2018 - Google Cloud Next - [Getting started with containers and GKE](https://www.youtube.com/watch?v=znhnDHAPCZE)
 
 ### Podcasts
