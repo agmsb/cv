@@ -19,7 +19,7 @@
 * December 2018 - [Cloud Build with Containers](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 * August 2018 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
-## Talks
+## Event talks
 
 * November 2021 - Google Cloud Next - [Production-grade build security for developer workflows](https://www.youtube.com/watch?v=kTM0on97U0A)
 * July 2021 - Secure Software Supply Chain Day - [Chain of trust: Strengthening build security](https://www.youtube.com/watch?v=jtT_iarPg8w)
@@ -30,4 +30,4 @@
 
 ## Podcasts
 
-## Hosting
+## Content co-authored or reviewed
