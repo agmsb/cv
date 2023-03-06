@@ -13,6 +13,12 @@
 
 ## Videos
 
+* January 2023 - [Optimization in GKE](https://www.youtube.com/watch?v=sYdCqxM7OFM)
+* December 2022 - [Cloud Run in a Minute](https://www.youtube.com/watch?v=AL2rAmWFZjM)
+* December 2022 - [Cloud Functions in a Minute](https://www.youtube.com/watch?v=BL4ZlPEamDo)
+* October 2022 - [Creating consistent GKE clusters](https://www.youtube.com/watch?v=COzgq0pQJGg)
+* October 2022 - [Introduction to Backup for GKE](https://www.youtube.com/watch?v=P2O0klCV5NE)
+* October 2022 - [How to enable Backup for GKE](https://www.youtube.com/watch?v=ZFycHEqOlrM)
 * August 2022 - [This Week in Cloud - August 1, 2022](https://www.youtube.com/watch?v=ZyCNL-tBTow)
 * July 2022 - [Run your Arm workloads on GKE!](https://www.youtube.com/watch?v=LZoy6jpzfqA)
 * July 2022 - [Foundations of canary deployments in GKE](https://www.youtube.com/watch?v=L9OuKDXxuME)
@@ -45,7 +51,9 @@
 
 ## Co-authored or reviewed
 
-* July 202 - Co-author - [How to run code in Google Cloud](https://www.youtube.com/watch?v=jtPtSVSTb9Y)
+* December 2022 - Reviewer - [Troubleshoot Dataproc Cluster Creation Errors](https://www.youtube.com/watch?v=S8kNdfuGyDs)
+* November 2022 - Reviewer - [GCVE: Troubleshoot Google Cloud to GCVE peering connection issues](https://www.youtube.com/watch?v=RO78WYoAr3k)
+* July 2022 - Co-author - [How to run code in Google Cloud](https://www.youtube.com/watch?v=jtPtSVSTb9Y)
 * July 2022 - Co-author - [Arm is coming to Compute Engine!](https://www.youtube.com/watch?v=HUbPVj27Mvc)
 * July 2022 - Reviewer - [Canary deployments for workloads in GKE](https://www.youtube.com/watch?v=VF6ZyOgRf8U)
 * June 2022 - Co-author - [Google Cloud Media CDN walkthrough](https://www.youtube.com/watch?v=GF90l7uk1qE)
