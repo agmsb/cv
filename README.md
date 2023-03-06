@@ -2,7 +2,7 @@
 
 ## Books
 
-* October 2022 - Packt Publishing - [Cloud-native Automation with Google Cloud Build](https://www.amazon.com/Cloud-Native-Automation-Google-Build-ebook/dp/B0B4SLXHCK]
+* October 2022 - Packt Publishing - [Cloud-native Automation with Google Cloud Build](https://www.amazon.com/Cloud-Native-Automation-Google-Build-ebook/dp/B0B4SLXHCK)
 
 ## Blogs
 
