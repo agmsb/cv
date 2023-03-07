@@ -104,8 +104,11 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ## Projects
 
-* GKE Networking Product Manager Rotation for DNS and multi-cluster load balancing 
-* Google Cloud Certified Cloud Developer Exam Co-Author
+### Google 
+
+* GKE Networking Product Manager rotation for DNS and multi-cluster load balancing features
+* Google Cloud Certified Cloud Developer Exam contributor
+* NorthAm infrastructure modernization community co-lead
 
 ## Education
 
