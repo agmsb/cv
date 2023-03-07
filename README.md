@@ -6,6 +6,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 * [History](#History)
 * [Content](#Content)
+* [Projects](#Projects)
 * [Education](#Education)
 * [Contact](#Contact)
 
@@ -100,6 +101,10 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * June 2022 - Contributor - [Why startups choose Google Cloud](https://www.youtube.com/watch?v=cJHlWncgYDU)
 * May 2022 - Contributor - [Cloud Functions 2nd Gen Walkthrough](https://www.youtube.com/watch?v=N6pMppfU2aQ)
 * March 2022 - Contributor - [Introducing Cloud Functions 2nd Gen](https://www.youtube.com/watch?v=ATBDTTM-Ohk)
+
+## Projects
+
+* Google Cloud Certified - Cloud Developer Exam Co-Author
 
 ## Education
 
