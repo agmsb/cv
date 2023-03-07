@@ -4,9 +4,9 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ## Table of Contents
 
-[History](#History)
-[Content](#Content)
-[Education](#Education)
+* [History](#History)
+* [Content](#Content)
+* [Education](#Education)
 
 ## History
 
