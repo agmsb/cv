@@ -7,6 +7,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * [History](#History)
 * [Content](#Content)
 * [Education](#Education)
+* [Contact](#Contact)
 
 ## History
 
@@ -110,4 +111,6 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * Bachelor's Degree in Political Science, Minor in Digital Humanities, Minor in Film, Television, and Digital Media
 * College Honors
 
+## Contact
 
+* email - me at agmsb.xyz
