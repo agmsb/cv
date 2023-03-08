@@ -111,10 +111,10 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * Google Cloud Certified Cloud Developer Exam contributor
 * North America infrastructure modernization community co-lead
 * Worked with the following publicly referenceable companies on Kubernetes
-* * Twitter
- * Uber
- * Scotiabank
- * Freenome
+  * Twitter
+  * Uber
+  * Scotiabank
+  * Freenome
 ## Education
 
 ### Georgia Institute of Techology (2018 - Present)
