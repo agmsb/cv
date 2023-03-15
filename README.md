@@ -31,7 +31,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * Associate Sales Engineer _(July 2014 - May 2015)_
 
 ### UCLA School of Law (2012-2014)
-* Senior IT Support Technician _(October 2012 - June 2014)_
+* Senior IT Technician _(October 2012 - June 2014)_
 
 ## Content
 
