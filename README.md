@@ -38,7 +38,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 ### Books
 
 * October 2022 - Packt Publishing - [Cloud-native Automation with Google Cloud Build](https://www.amazon.com/Cloud-Native-Automation-Google-Build-ebook/dp/B0B4SLXHCK)
-* June 2014 - UCLA - [Introduction to Digital Humanities](https://ia801202.us.archive.org/4/items/IntroductionToDigitalHumanities/Introduction%20to%20Digital%20Humanities.%20Concepts,%20Methods,%20and%20Tutorial%20for%20Students%20and%20Instructors.pdf)
+* June 2014 - UCLA Humanities Division - [Introduction to Digital Humanities: Concepts, Methods, and Tutorials for Students and Instructors](https://ia801202.us.archive.org/4/items/IntroductionToDigitalHumanities/Introduction%20to%20Digital%20Humanities.%20Concepts,%20Methods,%20and%20Tutorial%20for%20Students%20and%20Instructors.pdf)
 
 ### Blogs
 
