@@ -59,6 +59,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Videos
 
+* March 2023 - [How to tune cluster autoscaler in GKE](https://www.youtube.com/watch?v=vDTz16lA_HE)
 * January 2023 - [Optimization in GKE](https://www.youtube.com/watch?v=sYdCqxM7OFM)
 * December 2022 - [Cloud Run in a Minute](https://www.youtube.com/watch?v=AL2rAmWFZjM)
 * December 2022 - [Cloud Functions in a Minute](https://www.youtube.com/watch?v=BL4ZlPEamDo)
