@@ -42,6 +42,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Blogs
 
+* June 2023 - [Sharing the inaugural State of Kubernetes Cost Optimization report](https://cloud.google.com/blog/products/containers-kubernetes/new-report-state-of-kubernetes-cost-optimization)
 * April 2023 - [Promoting pre-prod to production in Cloud Run with Google Cloud Deploy](https://cloud.google.com/blog/products/devops-sre/using-cloud-deploy-to-promote-pre-prod-to-production-in-cloud-run)
 * March 2023 - [5 GKE features to help you optimize your clusters](https://cloud.google.com/blog/products/containers-kubernetes/boost-your-gke-game-with-these-tips-and-tutorials)
 * November 2022 - [Practicing the principle of least privilege with Cloud Build and Artifact Registry](https://cloud.google.com/blog/topics/developers-practitioners/practicing-principle-least-privilege-cloud-build-and-artifact-registry/)
@@ -60,6 +61,10 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Videos
 
+* June 2023 - [Creating Cloud #Workstations](https://www.youtube.com/watch?v=MzbZx6dTW8I)
+* June 2023 - [Right-sizing your workloads in GKE at scale](https://www.youtube.com/watch?v=kuuyyaFCzJY)
+* June 2023 - [Cloud Run and Cloud Deploy](https://www.youtube.com/watch?v=JrRHdkGoTfU)
+* May 2023 - [Why you should create a GKE Autopilot cluster](https://www.youtube.com/watch?v=J7BTV_Ldslg)
 * April 2023 - [Moving serverless forward with Cloud Run](https://www.youtube.com/watch?v=R3YF8uly_gw)
 * April 2023 - [Faster workload startup times with GKE Image Streaming](https://www.youtube.com/watch?v=bEk6oHMnVts)
 * April 2023 - [How to efficient with your network in GKE](https://www.youtube.com/watch?v=nAeByfKagBM)
@@ -86,6 +91,12 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * June 2021 - [The Kubernetes Gateway API: Multi-cluster Gateways](https://www.youtube.com/watch?v=NGsHFi276NE)
 * December 2018 - [Cloud Build with Containers](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 * August 2018 - [High Availability for Stateful GKE Workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)
+
+
+### Tools
+
+* kube-requests-checker
+* Cloud Run VPC Proxy
 
 ### Podcasts
 
@@ -115,14 +126,8 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 * GKE Networking Product Manager rotation for DNS and multi-cluster load balancing features
 * Google Cloud Certified Cloud Developer Exam contributor
 * North America infrastructure modernization community co-lead
-* Worked with companies to run Kubernetes in production, including the following publicly referenceable companies:
-  * Twitter
-  * Uber
-  * Scotiabank
-  * Cruise
-  * Freenome
-  * Major League Baseball
-  * Recursion Pharmaceuticals
+* Worked with dozens of companies, such as Twitter and Cruise, to run Kubernetes in production
+  
 ## Education
 
 ### Georgia Institute of Techology (2018 - Present)
