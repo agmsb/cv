@@ -42,6 +42,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Blogs
 
+* July 2023 - [Setting resource requests: the key to Kubernetes cost optimization](https://cloud.google.com/blog/products/containers-kubernetes/setting-resource-requests-the-key-to-kubernetes-cost-optimization)
 * July 2023 - [On the state of cost optimization in Kubernetes](https://medium.com/@agmsbush/on-the-state-of-cost-optimization-in-kubernetes-c0453689b877)
 * June 2023 - [Sharing the inaugural State of Kubernetes Cost Optimization report](https://cloud.google.com/blog/products/containers-kubernetes/new-report-state-of-kubernetes-cost-optimization)
 * April 2023 - [Promoting pre-prod to production in Cloud Run with Google Cloud Deploy](https://cloud.google.com/blog/products/devops-sre/using-cloud-deploy-to-promote-pre-prod-to-production-in-cloud-run)
