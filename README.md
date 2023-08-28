@@ -42,6 +42,7 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Blogs
 
+* August 2023 - [Maximizing Reliability, Minimizing Costs: Right-Sizing Kubernetes Workloads](https://cloud.google.com/blog/products/containers-kubernetes/proactive-kubernetes-workload-management)
 * July 2023 - [Setting resource requests: the key to Kubernetes cost optimization](https://cloud.google.com/blog/products/containers-kubernetes/setting-resource-requests-the-key-to-kubernetes-cost-optimization)
 * July 2023 - [On the state of cost optimization in Kubernetes](https://medium.com/@agmsbush/on-the-state-of-cost-optimization-in-kubernetes-c0453689b877)
 * June 2023 - [Sharing the inaugural State of Kubernetes Cost Optimization report](https://cloud.google.com/blog/products/containers-kubernetes/new-report-state-of-kubernetes-cost-optimization)
@@ -63,6 +64,9 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 
 ### Videos
 
+* August 2023 - [How Loveholidays scaled with Contact Center AI](https://www.youtube.com/watch?v=owEwl2i_Ltc)
+* August 2023 - [Creating budgets and budget alerts in Google Cloud #FinOps](https://www.youtube.com/watch?v=7mligEz04Y4)
+* July 2023 - [Ensuring requests are set in Kubernetes](https://www.youtube.com/watch?v=Ob7wp2pw-0g)
 * June 2023 - [Creating Cloud #Workstations](https://www.youtube.com/watch?v=MzbZx6dTW8I)
 * June 2023 - [Right-sizing your workloads in GKE at scale](https://www.youtube.com/watch?v=kuuyyaFCzJY)
 * June 2023 - [Cloud Run and Cloud Deploy](https://www.youtube.com/watch?v=JrRHdkGoTfU)
