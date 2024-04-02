@@ -13,7 +13,8 @@ Anthony Bushong is a Senior Developer Relations Engineer at Google focused on cl
 ## History
 
 ### Google (2020 - Present)
-* Senior Developer Relations Engineer _(January 2022 - Present)_
+* AI Platform Engineer _(November 2023 - Present)_
+* Senior Developer Relations Engineer _(January 2022 - November 2023)_
 * Staff Specialist Customer Engineer _(April 2021 - December 2021)_
 * Senior Specialist Customer Engineer _(June 2020 - April 2021)_
 
