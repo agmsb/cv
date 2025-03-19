@@ -13,7 +13,8 @@ Anthony Bushong is a Senior AI Platform Engineer at Google focused on large lang
 ## History
 
 ### Google (2020 - Present)
-* AI Platform Engineer _(November 2023 - Present)_
+* AI Research Engineer _(January 2025 - Present)_
+* AI Platform Engineer _(November 2023 - January 2025)_
 * Senior Developer Relations Engineer _(January 2022 - November 2023)_
 * Staff Specialist Customer Engineer _(April 2021 - December 2021)_
 * Senior Specialist Customer Engineer _(June 2020 - April 2021)_
@@ -129,8 +130,8 @@ Anthony Bushong is a Senior AI Platform Engineer at Google focused on large lang
 
 ## Education
 
-### Georgia Institute of Techology (2018 - Present)
-* Candidate for Master's Degree in Computer Science
+### Georgia Institute of Techology (2018 - 2024)
+* Master's Degree in Computer Science
 
 
 ### University of California, Los Angeles (2010 - 2014)
