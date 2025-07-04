@@ -1,6 +1,6 @@
 # agmsb-cv
 
-Anthony Bushong is a Senior AI Platform Engineer at Google focused on large language models for cloud.
+Anthony Bushong is a Senior AI Research Engineer at Google focused on large language models for cloud and code generation.
 
 ## Table of Contents
 
