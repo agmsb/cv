@@ -13,7 +13,7 @@ Anthony Bushong is a Senior AI Research Engineer at Google focused on large lang
 ## History
 
 ### Google (2020 - Present)
-* AI Research Engineer _(January 2025 - Present)_
+* AI Engineer _(January 2025 - Present)_
 * AI Platform Engineer _(November 2023 - January 2025)_
 * Senior Developer Relations Engineer _(January 2022 - November 2023)_
 * Staff Specialist Customer Engineer _(April 2021 - December 2021)_
